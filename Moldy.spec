@@ -1,5 +1,5 @@
 Summary:	General-purpose molecular dynamics simulation program
-Summary(pl):	Program ogólnego stosowania do symulacji z dynamiki molekularnej
+Summary(pl.UTF-8):   Program ogÃ³lnego stosowania do symulacji z dynamiki molekularnej
 Name:		Moldy
 Version:	3.4
 Release:	1
@@ -18,13 +18,13 @@ mineral surfaces.  However it is sufficiently flexible that it ought
 to be useful for a wide range of simulation calculations of atomic,
 ionic and molecular systems.
 
-%description -l pl
-Moldy to ogólnego zastosowania program do symulacji dynamiki
-molekularnej napisany pocz±tkowo przez autora we w³asnych celach
-badawczych zwi±zanych z roztworami wodnymi na powierzchniach
-mineralnych. Mimo to jest wystarczaj±co elastyczny, aby byæ przydatny
-dla szerokiego zakresu symulacji obliczeñ uk³adów atomowych, jonowych
-i cz±steczkowych.
+%description -l pl.UTF-8
+Moldy to ogÃ³lnego zastosowania program do symulacji dynamiki
+molekularnej napisany poczÄ…tkowo przez autora we wÅ‚asnych celach
+badawczych zwiÄ…zanych z roztworami wodnymi na powierzchniach
+mineralnych. Mimo to jest wystarczajÄ…co elastyczny, aby byÄ‡ przydatny
+dla szerokiego zakresu symulacji obliczeÅ„ ukÅ‚adÃ³w atomowych, jonowych
+i czÄ…steczkowych.
 
 %prep
 %setup -q
