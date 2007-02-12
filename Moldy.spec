@@ -1,5 +1,5 @@
 Summary:	General-purpose molecular dynamics simulation program
-Summary(pl.UTF-8):   Program ogólnego stosowania do symulacji z dynamiki molekularnej
+Summary(pl.UTF-8):	Program ogólnego stosowania do symulacji z dynamiki molekularnej
 Name:		Moldy
 Version:	3.4
 Release:	1
